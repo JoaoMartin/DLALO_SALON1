@@ -1,0 +1,112 @@
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\SIS_PANADERIAS\DLALO\SALON\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\SIS_PANADERIAS\DLALO\SALON\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\SIS_PANADERIAS\DLALO\SALON\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\SIS_PANADERIAS\DLALO\SALON\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\SIS_PANADERIAS\DLALO\SALON\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+D:\SIS_PANADERIAS\DLALO\SALON\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\SIS_PANADERIAS\DLALO\SALON\CapaNegocios\obj\Debug\CapaNegocios.pdb

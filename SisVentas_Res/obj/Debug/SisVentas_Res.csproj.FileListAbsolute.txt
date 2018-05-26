@@ -1,0 +1,575 @@
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\bin\Debug\SisVentas_Res.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\bin\Debug\SisVentas_Res.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\bin\Debug\SisVentas_Res.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\obj\Debug\SisVentas_Res.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\obj\Debug\SisVentas_Res.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\SisVentas_Res\obj\Debug\SisVentas_Res.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\SisVentas_Res_Almacen.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\SisVentas_Res\obj\Debug\SisVentas_Res_Almacen.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\GESREST.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\GESREST.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\GESREST.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\GESREST.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\bin\Debug\GESREST.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\obj\Debug\GESREST.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\obj\Debug\GESREST.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\obj\Debug\GESREST.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\SisVentas_Res\obj\Debug\GESREST.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\GESREST.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\GESREST.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\GESREST.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\GESREST.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\GESREST.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\GESREST.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\GESREST.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\GESREST.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\GESREST.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\GESREST.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\GESREST.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\GESREST.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\GESREST.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\GESREST.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\GESREST.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\GESREST.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\GESREST.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\SisVentas_Res\obj\Debug\GESREST.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\SisVentas_Res\obj\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\JMFAC.exe.config
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\JMFAC.application
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\JMFAC.exe
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\JMFAC.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CapaNegocios.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\FlashControlV71.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\stdole.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\JMFAC.exe.manifest
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\JMFAC.application
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\JMFAC.exe.config
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\JMFAC.exe
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\JMFAC.pdb
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\SisVentas_Res.csprojResolveAssemblyReference.cache
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\SisVentas_Res_Almance.Properties.Resources.resources
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\SisVentas_Res.csproj.GenerateResource.Cache
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\JMFAC.exe.manifest
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\JMFAC.application
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\JMFAC.exe
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\JMFAC.pdb
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CapaPresentacion.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.Shared.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CapaNegocios.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\FlashControlV71.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CapaDatos.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\ShockwaveFlashObjects.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\stdole.dll
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CapaPresentacion.pdb
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CapaNegocios.pdb
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\bin\Debug\CapaDatos.pdb
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\JMFAC.exe.manifest
+D:\SIS_PANADERIAS\DLALO\SALON\SisVentas_Res\obj\Debug\JMFAC.application
+C:\Users\MARTIN\Source\Repos\DLALO_SALON\SisVentas_Res\bin\Debug\JMFAC.exe.config
+C:\Users\MARTIN\Source\Repos\DLALO_SALON\SisVentas_Res\obj\Debug\JMFAC.exe
+C:\Users\MARTIN\Source\Repos\DLALO_SALON\SisVentas_Res\obj\Debug\JMFAC.pdb

@@ -1,0 +1,80 @@
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Res\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_ResAlm\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SisVentas_Bar\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAUCHPA_Barra1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISVENTAS_CA\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\SISTEMAVENTAS_CAGRANDE\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CAGRANDE\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\LALOS CAFE\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\MIATANTA_MARISCAL\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\MUESTRA\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\LALOS PAN\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SISTEMAVENTAS_CIERRES\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\vioma\OneDrive\Documentos\Visual Studio 2017\Projects\PANADERIAS\DLALO\SALON\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\SIS_PANADERIAS\DLALO\SALON\CapaDatos\bin\Debug\CapaDatos.dll
+D:\SIS_PANADERIAS\DLALO\SALON\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\SIS_PANADERIAS\DLALO\SALON\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\SIS_PANADERIAS\DLALO\SALON\CapaDatos\obj\Debug\CapaDatos.dll
+D:\SIS_PANADERIAS\DLALO\SALON\CapaDatos\obj\Debug\CapaDatos.pdb
